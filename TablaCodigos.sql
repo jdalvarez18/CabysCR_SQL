@@ -1,12 +1,3 @@
-USE [InforGasTienda]
-GO
-
-/****** Object:  Table [dbo].[CodigosCabys]    Script Date: 9/12/2020 04:50:15 ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
 
 CREATE TABLE [dbo].[CodigosCabys](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
